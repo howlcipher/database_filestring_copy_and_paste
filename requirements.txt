@@ -1,0 +1,8 @@
+# SQLAlchemy for database connection
+SQLAlchemy==1.4.25
+
+# pandas for data manipulation and analysis
+pandas==1.3.3
+
+# pyodbc for ODBC database connectivity
+pyodbc==4.0.32

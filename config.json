@@ -1,0 +1,9 @@
+{
+    "database": {
+        "server": "your_server_name",
+        "database": "your_database_name",
+        "query": "your_query",
+        "file_column": "your_file_column"
+    },
+    "destination_directory": "output"
+}
